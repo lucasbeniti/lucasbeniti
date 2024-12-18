@@ -74,8 +74,8 @@ Me chamo Lucas Bernardo, tenho 20 anos e sou natural de São Paulo. Atualmente, 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
