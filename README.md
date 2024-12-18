@@ -47,4 +47,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/lucasbeniti/lucasbeniti/output/snake.svg" alt="Snake animation" />
+
+###
+
 ###
