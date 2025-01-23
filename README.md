@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Bernardo, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia buscando sempre aprimorar meu conhecimento.
+Me chamo Lucas Bernardo, tenho 20 anos. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia buscando sempre aprimorar meu conhecimento.
 
 ---
 
